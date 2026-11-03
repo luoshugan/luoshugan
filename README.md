@@ -12,7 +12,7 @@ M.S. candidate at Shanghai Ocean University, graduating 2027.
 `Python` `FastAPI` `LangGraph` `PyTorch` `TRL/GRPO` `Milvus` `Elasticsearch` `Neo4j` `PostgreSQL/pgvector` `Docker`
 
 ## 📌 Selected projects
-- **MiniSheetAgent-RL** — Table agent training & eval, Qwen3-4B + GRPO (coming soon)
+- [**MiniSheetAgent-RL**](https://github.com/luoshugan/SheetAgent-RL) — Table agent training & eval, Qwen3-4B + GRPO
 - **MarineDisaster-MultiAgent** — LangGraph multi-agent disaster assessment (coming soon)
 - **StormSurge-NER** — ERNIE-BiGRU-Attention-CRF, F1 92.7% (coming soon)
 
